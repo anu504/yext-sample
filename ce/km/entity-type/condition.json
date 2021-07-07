@@ -142,10 +142,6 @@
       "required": false
     },
     {
-      "id": "yext/rankTrackingCompetitors",
-      "required": false
-    },
-    {
       "id": "yext/routableCoordinate",
       "required": false
     },
