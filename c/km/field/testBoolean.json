@@ -1,0 +1,11 @@
+{
+  "$id": "c_testBoolean",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "test boolean",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "yext/boolean"
+}

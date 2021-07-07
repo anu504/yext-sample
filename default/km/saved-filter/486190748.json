@@ -1,0 +1,39 @@
+{
+  "$id": "486190748",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Answers - Other",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_articleCategory",
+        "filterOption": {
+          "choice": [
+            "PLACING_ORDERS",
+            "RETURN/REPLACEMENT",
+            "PROBLEM_WITH_AN_ORDER_OR_A_PRODUCT",
+            "PLACE_NEW_ORDER",
+            "MY_VET_ORDER",
+            "MANAGE_ORDER",
+            "CANCEL_ORDER",
+            "ADD/REMOVE_ITEM_FROM_ORDER",
+            "PROMOS_AND_MAILERS",
+            "PRODUCT_QUESTIONS",
+            "PRODUCT_MERCH",
+            "SHIPPING",
+            "SHIPMENT_TRACKING",
+            "DELIVERY_EXPERIENCE",
+            "DELIVERY_EXCEPTIONS",
+            "AUTOSHIP_UPDATE",
+            "SPECIALTY_TEAMS",
+            "SPECIALTY_TEAM",
+            "PHONE_TEAM",
+            "PETSCRIPTIONS_LEAD",
+            "CUSTOMER_APPRECIATION_TEAM",
+            "CHEWY_KNOWLEDGE"
+          ],
+          "type": "DOES_NOT_INCLUDE"
+        }
+      }
+    ]
+  }
+}

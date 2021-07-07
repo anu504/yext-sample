@@ -1,0 +1,6 @@
+{
+  "$id": "9b6eada2f5d5429c9ccf82bde3f505e1",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Hotel Room Type",
+  "parent": "92739a8a982c494c89c772fef2967735"
+}

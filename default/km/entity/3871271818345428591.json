@@ -1,0 +1,11 @@
+{
+  "$id": "3871271818345428591",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/name": "Joey\u0027s Coffee"
+  },
+  "entityType": "ce_coffee",
+  "folder": "bffb0b89d12a46eaba85ed16ae3e5588",
+  "labels": []
+}

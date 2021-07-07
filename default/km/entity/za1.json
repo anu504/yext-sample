@@ -1,0 +1,13 @@
+{
+  "$id": "za1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_calories": "CA",
+    "c_menuCategory": "Pizza",
+    "yext/name": "Test Pizza"
+  },
+  "entityType": "ce_menuItem",
+  "folder": "f6a48bf62e894a53bc279e10cdd4b066",
+  "labels": []
+}

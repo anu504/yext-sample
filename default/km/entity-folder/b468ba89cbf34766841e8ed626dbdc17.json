@@ -1,0 +1,6 @@
+{
+  "$id": "b468ba89cbf34766841e8ed626dbdc17",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Hotel",
+  "parent": "yext/root"
+}

@@ -1,0 +1,71 @@
+{
+  "$id": "testDeluxe",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/headshot": {
+      "height": 288,
+      "sourceUrl": "https://media3.giphy.com/media/ZoBn8lxRuCX9m/giphy-downsized-large.gif",
+      "thumbnails": [
+        {
+          "height": 288,
+          "url": "https://a.mktgcdn.com/p/pmpuACnbhJy4ML7jpIXXN4UqW_1-3MHR5eskCzPkNjQ/392x288.png",
+          "width": 392
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/pmpuACnbhJy4ML7jpIXXN4UqW_1-3MHR5eskCzPkNjQ/392x288.png",
+      "width": 392
+    },
+    "yext/name": "Deluxe",
+    "yext/photoGallery": [
+      {
+        "description": "test",
+        "image": {
+          "height": 720,
+          "thumbnails": [
+            {
+              "height": 720,
+              "url": "https://a.mktgcdn.com/p/fglRkfw6LX8qIer58T558stvzEdD-1cQK_2AW8IRGkk/1280x720.jpg",
+              "width": 1280
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/fglRkfw6LX8qIer58T558stvzEdD-1cQK_2AW8IRGkk/1280x720.jpg",
+          "width": 1280
+        }
+      },
+      {
+        "description": "testing",
+        "image": {
+          "height": 250,
+          "thumbnails": [
+            {
+              "height": 250,
+              "url": "https://a.mktgcdn.com/p/PS1NYTmBhbTYWu6OgdsE3EwuJUob_U-89JyIFlSxUNc/250x250.png",
+              "width": 250
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/PS1NYTmBhbTYWu6OgdsE3EwuJUob_U-89JyIFlSxUNc/250x250.png",
+          "width": 250
+        }
+      },
+      {
+        "description": "a third testing",
+        "image": {
+          "height": 800,
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/1066x800.jpg",
+              "width": 1066
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/1066x800.jpg",
+          "width": 1066
+        }
+      }
+    ]
+  },
+  "entityType": "yext/healthcareProfessional",
+  "folder": "9b6eada2f5d5429c9ccf82bde3f505e1",
+  "labels": []
+}

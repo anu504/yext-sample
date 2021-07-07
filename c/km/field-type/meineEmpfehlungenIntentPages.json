@@ -1,0 +1,97 @@
+{
+  "$id": "c_meineEmpfehlungenIntentPages",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "description": "",
+  "displayName": "Meine Empfehlungen Intent pages",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "meineEmpfehlungenAgentur",
+          "displayName": "Meine Empfehlungen Agentur",
+          "isRequired": false,
+          "typeId": "yext/list",
+          "type": {
+            "listType": {
+              "typeId": "yext/struct",
+              "type": {
+                "structType": {
+                  "property": [
+                    {
+                      "displayName": "Meine Empfehlungen Agentur Beschreibung",
+                      "isRequired": false,
+                      "name": "meineEmpfehlungenAgenturBeschreibung",
+                      "type": {
+                        "stringType": {
+                          "stereotype": "SIMPLE"
+                        }
+                      },
+                      "typeId": "yext/string"
+                    },
+                    {
+                      "displayName": "Meine Empfehlungen Agentur Details",
+                      "isRequired": false,
+                      "name": "meineEmpfehlungenAgenturDetails",
+                      "type": {
+                        "richTextType": {
+                          "supportedFormat": [
+                            "BULLETED_LIST",
+                            "UNDERLINE",
+                            "BOLD",
+                            "ITALICS",
+                            "NUMBERED_LIST",
+                            "HYPERLINK"
+                          ]
+                        }
+                      },
+                      "typeId": "yext/richText"
+                    },
+                    {
+                      "displayName": "Meine Empfehlungen Agentur Bild",
+                      "isRequired": false,
+                      "name": "meineEmpfehlungenAgenturBild",
+                      "type": {
+                        "imageType": {
+                          "isSimpleImage": true,
+                          "minSize": {
+                            "height": 0,
+                            "width": 0
+                          },
+                          "noAllowedAspectRatios": true,
+                          "unconstrainedAspectRatioAllowed": true
+                        }
+                      },
+                      "typeId": "yext/image"
+                    },
+                    {
+                      "displayName": "Empfehlungen Agentur Handlungsaufforderung CTA Copy",
+                      "isRequired": false,
+                      "name": "empfehlungenAgenturHandlungsaufforderungCTACopy",
+                      "type": {
+                        "stringType": {
+                          "stereotype": "SIMPLE"
+                        }
+                      },
+                      "typeId": "yext/string"
+                    },
+                    {
+                      "displayName": "Empfehlungen Agentur Handlungsaufforderung CTA URL",
+                      "isRequired": false,
+                      "name": "empfehlungenAgenturHandlungsaufforderungCTAURL",
+                      "type": {
+                        "stringType": {
+                          "stereotype": "URL"
+                        }
+                      },
+                      "typeId": "yext/string"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

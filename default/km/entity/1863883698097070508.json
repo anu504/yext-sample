@@ -1,0 +1,11 @@
+{
+  "$id": "1863883698097070508",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/name": "Mocha Java"
+  },
+  "entityType": "ce_coffee",
+  "folder": "bffb0b89d12a46eaba85ed16ae3e5588",
+  "labels": []
+}

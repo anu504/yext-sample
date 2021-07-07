@@ -1,0 +1,12 @@
+{
+  "$id": "494175869",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Search Term Filter",
+  "filter": {
+    "entity": [
+      {
+        "search": "search"
+      }
+    ]
+  }
+}

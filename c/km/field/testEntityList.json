@@ -1,0 +1,16 @@
+{
+  "$id": "c_testEntityList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Entity List",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/entityReference",
+      "type": {
+        "entityReferenceType": {}
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

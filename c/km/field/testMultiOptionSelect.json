@@ -1,0 +1,18 @@
+{
+  "$id": "c_testMultiOptionSelect",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Multi option select",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "noOptions": true
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

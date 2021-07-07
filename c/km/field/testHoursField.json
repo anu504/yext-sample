@@ -1,0 +1,13 @@
+{
+  "$id": "c_testHoursField",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Hours Field",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_testHoursList"
+    }
+  },
+  "typeId": "yext/list"
+}

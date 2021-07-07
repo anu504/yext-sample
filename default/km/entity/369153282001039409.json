@@ -1,0 +1,19 @@
+{
+  "$id": "369153282001039409",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "230 E 30th Street",
+      "line2": "Apt 16D",
+      "postalCode": "10016",
+      "region": "NY"
+    },
+    "yext/name": "New entity"
+  },
+  "entityType": "ce_blogPost",
+  "folder": "yext/root",
+  "labels": []
+}

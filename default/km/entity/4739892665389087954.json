@@ -1,0 +1,190 @@
+{
+  "$id": "4739892665389087954",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_article": "\u003ch1\u003eTest Heder\u003c/h1\u003e\n\n\u003cp\u003e[[c_department]]\u003c/p\u003e",
+    "c_department": "\u003ch2\u003etest embed\u003c/h2\u003e",
+    "c_testBarmenia": {
+      "meineEmpfehlungenAgentur": [
+        {
+          "empfehlungenAgenturHandlungsaufforderungCTACopy": "TEst",
+          "empfehlungenAgenturHandlungsaufforderungCTAURL": "http://test.com",
+          "meineEmpfehlungenAgenturBeschreibung": "Test",
+          "meineEmpfehlungenAgenturBild": {
+            "height": 2480,
+            "sourceUrl": "https://preview.redd.it/w3kr4m2fi3111.png?auto\u003dwebp\u0026s\u003db4fb4bdfd262de01e49b9f7463d784c6d9013a1b",
+            "thumbnails": [
+              {
+                "height": 1900,
+                "url": "http://a.mktgcdn.com/p/5R6gdmGL_pBo5wFrXkibGnXZk2l2v91utqFV6u27tfc/1900x1900.png",
+                "width": 1900
+              },
+              {
+                "height": 619,
+                "url": "http://a.mktgcdn.com/p/5R6gdmGL_pBo5wFrXkibGnXZk2l2v91utqFV6u27tfc/619x619.png",
+                "width": 619
+              },
+              {
+                "height": 450,
+                "url": "http://a.mktgcdn.com/p/5R6gdmGL_pBo5wFrXkibGnXZk2l2v91utqFV6u27tfc/450x450.png",
+                "width": 450
+              },
+              {
+                "height": 195,
+                "url": "http://a.mktgcdn.com/p/5R6gdmGL_pBo5wFrXkibGnXZk2l2v91utqFV6u27tfc/195x195.png",
+                "width": 195
+              }
+            ],
+            "url": "https://a.mktgcdn.com/p/5R6gdmGL_pBo5wFrXkibGnXZk2l2v91utqFV6u27tfc/2480x2480.png",
+            "width": 2480
+          },
+          "meineEmpfehlungenAgenturDetails": "Test"
+        }
+      ]
+    },
+    "yext/accessHours": {
+      "friday": {
+        "isClosed": true
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "00:00",
+            "start": "23:59"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "10:00",
+            "start": "23:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "10:00",
+            "start": "23:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "10:00",
+            "start": "23:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "10:00",
+            "start": "23:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "10:00",
+            "start": "23:00"
+          }
+        ]
+      }
+    },
+    "yext/address": {
+      "city": "Plateau",
+      "countryCode": "CI",
+      "line1": "23 Nogues Ave"
+    },
+    "yext/addressHidden": true,
+    "yext/categoryIds": [
+      "1886"
+    ],
+    "yext/description": "\u003ch1\u003eTest Heder\u003c/h1\u003e",
+    "yext/hours": {
+      "holidayHours": [
+        {
+          "date": "2022-11-26",
+          "openIntervals": [
+            {
+              "end": "14:00",
+              "start": "09:00"
+            },
+            {
+              "end": "19:00",
+              "start": "15:00"
+            }
+          ]
+        },
+        {
+          "date": "2022-12-25",
+          "isClosed": true
+        }
+      ]
+    },
+    "yext/mainPhone": "+2252720394823",
+    "yext/name": "Ivory Coast Loc",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 800,
+          "thumbnails": [
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/1066x800.jpg",
+          "width": 1066
+        }
+      }
+    ],
+    "yext/serviceArea": {
+      "places": [
+        "02301",
+        "New York",
+        "Test"
+      ]
+    },
+    "yext/serviceAreaPlaces": [
+      {
+        "name": "02301",
+        "type": "POSTAL_CODE"
+      },
+      {
+        "name": "New York"
+      },
+      {
+        "name": "Test",
+        "type": "CITY"
+      }
+    ],
+    "yext/timezone": "Africa/Abidjan",
+    "yext/videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003do5fdhfVrg1I"
+        }
+      }
+    ]
+  },
+  "entityType": "yext/location",
+  "folder": "9bdbcb6bab954b43a0fdfb9faee15645",
+  "labels": []
+}

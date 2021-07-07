@@ -1,0 +1,118 @@
+{
+  "$id": "ce_sampleType",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Sample Type",
+  "enabled": false,
+  "field": [
+    {
+      "id": "yext/address",
+      "required": false
+    },
+    {
+      "id": "yext/hours",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "yext/cityCoordinate",
+      "required": false
+    },
+    {
+      "id": "c_articleCategory",
+      "required": false
+    },
+    {
+      "id": "c_exampleImageField",
+      "required": false
+    },
+    {
+      "id": "c_exampleListField",
+      "required": false
+    },
+    {
+      "id": "c_exampleReferenceField",
+      "required": false
+    },
+    {
+      "id": "c_testBoolean",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML2",
+      "required": false
+    },
+    {
+      "id": "c_testReference",
+      "required": false
+    },
+    {
+      "id": "yext/displayCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/dropoffCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/geocodedCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/pickupCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/routableCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    },
+    {
+      "id": "yext/walkableCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/websiteUrl",
+      "required": false
+    },
+    {
+      "id": "yext/yextDisplayCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextDropoffCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextPickupCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextRoutableCoordinate",
+      "required": false
+    },
+    {
+      "id": "yext/yextWalkableCoordinate",
+      "required": false
+    }
+  ],
+  "pluralDisplayName": ""
+}

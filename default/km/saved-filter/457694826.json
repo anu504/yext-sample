@@ -1,0 +1,19 @@
+{
+  "$id": "457694826",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Test Coordinates",
+  "filter": {
+    "geo": [
+      {
+        "miles": 10.0,
+        "text": "New York",
+        "type": "IN"
+      },
+      {
+        "miles": 10.0,
+        "text": "New York",
+        "type": "IN"
+      }
+    ]
+  }
+}

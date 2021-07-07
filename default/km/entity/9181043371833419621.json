@@ -1,0 +1,25 @@
+{
+  "$id": "9181043371833419621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_department": "where are my keys",
+    "yext/address": {
+      "city": "Baysville",
+      "countryCode": "CA",
+      "line1": "1268 Burnt Island Road",
+      "postalCode": "P0B 1A0",
+      "region": "ON"
+    },
+    "yext/addressHidden": false,
+    "yext/categoryIds": [
+      "2191"
+    ],
+    "yext/mainPhone": "+15085586736",
+    "yext/name": "Canada Location",
+    "yext/timezone": "America/Toronto"
+  },
+  "entityType": "yext/location",
+  "folder": "yext/root",
+  "labels": []
+}

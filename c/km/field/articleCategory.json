@@ -1,0 +1,200 @@
+{
+  "$id": "c_articleCategory",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Article Category",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Product Questions",
+              "textValue": "PRODUCT_QUESTIONS"
+            },
+            {
+              "displayName": "Chewy Knowledge",
+              "textValue": "CHEWY_KNOWLEDGE"
+            },
+            {
+              "displayName": "Placing Orders",
+              "textValue": "PLACING_ORDERS"
+            },
+            {
+              "displayName": "General",
+              "textValue": "GENERAL"
+            },
+            {
+              "displayName": "Shipping",
+              "textValue": "SHIPPING"
+            },
+            {
+              "displayName": "Specialty Teams",
+              "textValue": "SPECIALTY_TEAMS"
+            },
+            {
+              "displayName": "Vet Verification Request",
+              "textValue": "VET_VERIFICATION_REQUEST"
+            },
+            {
+              "displayName": "Vet Diet",
+              "textValue": "VET_DIET"
+            },
+            {
+              "displayName": "Manage Order",
+              "textValue": "MANAGE_ORDER"
+            },
+            {
+              "displayName": "Place New Order",
+              "textValue": "PLACE_NEW_ORDER"
+            },
+            {
+              "displayName": "Autoship Update",
+              "textValue": "AUTOSHIP_UPDATE"
+            },
+            {
+              "displayName": "Return/Replacement",
+              "textValue": "RETURN/REPLACEMENT"
+            },
+            {
+              "displayName": "My Vet Order",
+              "textValue": "MY_VET_ORDER"
+            },
+            {
+              "displayName": "Vendor Compliance",
+              "textValue": "VENDOR_COMPLIANCE"
+            },
+            {
+              "displayName": "Supply Planning",
+              "textValue": "SUPPLY_PLANNING"
+            },
+            {
+              "displayName": "Product Merch",
+              "textValue": "PRODUCT_MERCH"
+            },
+            {
+              "displayName": "Leads",
+              "textValue": "LEADS"
+            },
+            {
+              "displayName": "Shipment Tracking",
+              "textValue": "SHIPMENT_TRACKING"
+            },
+            {
+              "displayName": "Fulfillment Center",
+              "textValue": "FULFILLMENT_CENTER"
+            },
+            {
+              "displayName": "Delivery Experience",
+              "textValue": "DELIVERY_EXPERIENCE"
+            },
+            {
+              "displayName": "Delivery Exceptions",
+              "textValue": "DELIVERY_EXCEPTIONS"
+            },
+            {
+              "displayName": "New Announcements",
+              "textValue": "NEW_ANNOUNCEMENTS"
+            },
+            {
+              "displayName": "Esco Chat",
+              "textValue": "ESCO_CHAT"
+            },
+            {
+              "displayName": "WOW Request",
+              "textValue": "WOW_REQUEST"
+            },
+            {
+              "displayName": "Customer Appreciation Team",
+              "textValue": "CUSTOMER_APPRECIATION_TEAM"
+            },
+            {
+              "displayName": "Card Writing Process",
+              "textValue": "CARD_WRITING_PROCESS"
+            },
+            {
+              "displayName": "Cancel Order",
+              "textValue": "CANCEL_ORDER"
+            },
+            {
+              "displayName": "Workforce Management",
+              "textValue": "WORKFORCE_MANAGEMENT"
+            },
+            {
+              "displayName": "Promos and Mailers",
+              "textValue": "PROMOS_AND_MAILERS"
+            },
+            {
+              "displayName": "Fish Bowl Contact Reason",
+              "textValue": "FISH_BOWL_CONTACT_REASON"
+            },
+            {
+              "displayName": "Writing Team",
+              "textValue": "WRITING_TEAM"
+            },
+            {
+              "displayName": "Specialty Team",
+              "textValue": "SPECIALTY_TEAM"
+            },
+            {
+              "displayName": "Phone Team",
+              "textValue": "PHONE_TEAM"
+            },
+            {
+              "displayName": "Gift Cards",
+              "textValue": "GIFT_CARDS"
+            },
+            {
+              "displayName": "Problem with an order or a product",
+              "textValue": "PROBLEM_WITH_AN_ORDER_OR_A_PRODUCT"
+            },
+            {
+              "displayName": "Add/Remove item from order",
+              "textValue": "ADD/REMOVE_ITEM_FROM_ORDER"
+            },
+            {
+              "displayName": "Chewy Pro",
+              "textValue": "CHEWY_PRO"
+            },
+            {
+              "displayName": "WebEx Teams",
+              "textValue": "WEBEX_TEAMS"
+            },
+            {
+              "displayName": "VPN",
+              "textValue": "VPN"
+            },
+            {
+              "displayName": "Virtual Desktop (AWS)",
+              "textValue": "VIRTUAL_DESKTOP_(AWS)"
+            },
+            {
+              "displayName": "Cisco",
+              "textValue": "CISCO"
+            },
+            {
+              "displayName": "Medications and prescriptions",
+              "textValue": "MEDICATIONS_AND_PRESCRIPTIONS"
+            },
+            {
+              "displayName": "Petscriptions Lead",
+              "textValue": "PETSCRIPTIONS_LEAD"
+            },
+            {
+              "displayName": "Oracle",
+              "textValue": "ORACLE"
+            },
+            {
+              "displayName": "Chewy Shelters",
+              "textValue": "CHEWY_SHELTERS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

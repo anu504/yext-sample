@@ -1,0 +1,63 @@
+{
+  "$id": "ce_fedsTest",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_fedsTest",
+  "displayName": "Fed\u0027s Test",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/hours"
+        },
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/holidayHoursConversationEnabled"
+        },
+        {
+          "id": "yext/additionalHoursText"
+        },
+        {
+          "id": "c_someRandomField"
+        },
+        {
+          "id": "yext/description"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        },
+        {
+          "id": "yext/acceptingNewPatients"
+        },
+        {
+          "id": "yext/acceptsReservations"
+        }
+      ]
+    }
+  ]
+}

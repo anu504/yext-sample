@@ -1,0 +1,18 @@
+{
+  "$id": "e54824c7f4d94fe38055d94965be8a0f",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "content": {
+    "c_hoursTest": null,
+    "c_uRLTestField": "https://www.youtube.com/watch?v\u003du020tLMmRF4"
+  },
+  "entityTypes": [
+    "yext/location",
+    "yext/healthcareFacility",
+    "yext/atm",
+    "yext/restaurant",
+    "yext/hotel",
+    "yext/hotelRoomType"
+  ],
+  "externalId": "test",
+  "name": "Test"
+}

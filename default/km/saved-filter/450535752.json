@@ -1,0 +1,23 @@
+{
+  "$id": "450535752",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "New Name",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "ce_product"
+        ],
+        "type": "IS"
+      }
+    ],
+    "fieldsWithoutData": [
+      {
+        "fieldId": [
+          "yext/acceptingNewPatients"
+        ],
+        "type": "ANY"
+      }
+    ]
+  }
+}

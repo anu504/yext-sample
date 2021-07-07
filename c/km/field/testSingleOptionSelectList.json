@@ -1,0 +1,35 @@
+{
+  "$id": "c_testSingleOptionSelectList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Single Option Select List",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "1",
+              "textValue": "1"
+            },
+            {
+              "displayName": "2",
+              "textValue": "2"
+            },
+            {
+              "displayName": "3",
+              "textValue": "3"
+            },
+            {
+              "displayName": "4",
+              "textValue": "4"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

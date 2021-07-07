@@ -1,0 +1,19 @@
+{
+  "$id": "hotelroomtype1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_rTF": "**test**",
+    "c_testMultiLineFieldWHTML": "\u003cspan id\u003dembedded-content\u003eTest Paragraph ID: \u0027embedded-content\u0027\u003c/span\u003e",
+    "c_testMultiLineFieldWHTML2": "\u003ch1\u003eHeader Test\u003c/h1\u003e\n\u003cdiv\u003eEmbedded field content: [[c_testMultiLineFieldWHTML]]\u003c/div\u003e",
+    "yext/applicableUnits": [
+      "suggestion test"
+    ],
+    "yext/name": "2 Bedroom Suite",
+    "yext/privateHome": true,
+    "yext/roomTier": "STANDARD"
+  },
+  "entityType": "yext/hotelRoomType",
+  "folder": "9b6eada2f5d5429c9ccf82bde3f505e1",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "ce_sampleType",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_sampleType",
+  "displayName": "Sample Type",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_exampleListField"
+        },
+        {
+          "id": "c_exampleImageField"
+        },
+        {
+          "id": "c_exampleReferenceField"
+        },
+        {
+          "id": "yext/hours"
+        },
+        {
+          "id": "yext/websiteUrl"
+        },
+        {
+          "id": "yext/address"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}

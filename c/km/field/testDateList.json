@@ -1,0 +1,16 @@
+{
+  "$id": "c_testDateList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Date List",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/date",
+      "type": {
+        "dateType": {}
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

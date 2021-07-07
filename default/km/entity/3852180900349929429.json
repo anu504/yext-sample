@@ -1,0 +1,23 @@
+{
+  "$id": "3852180900349929429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/address": {
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "line1": "180 Scholes St",
+      "postalCode": "11206",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/categoryIds": [
+      "1917"
+    ],
+    "yext/name": "Location 608",
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/location",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,267 @@
+{
+  "$id": "4376838901849540650",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_hoursTest": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "c_testHoursField": [
+      {
+        "header": "Test",
+        "serviceHours": {
+          "friday": {
+            "isClosed": false,
+            "openIntervals": [
+              {
+                "end": "23:59",
+                "start": "00:00"
+              }
+            ]
+          },
+          "monday": {
+            "isClosed": false,
+            "openIntervals": [
+              {
+                "end": "23:59",
+                "start": "00:00"
+              }
+            ]
+          },
+          "saturday": {
+            "isClosed": false,
+            "openIntervals": [
+              {
+                "end": "23:59",
+                "start": "00:00"
+              }
+            ]
+          },
+          "sunday": {
+            "isClosed": false,
+            "openIntervals": [
+              {
+                "end": "23:59",
+                "start": "00:00"
+              }
+            ]
+          },
+          "thursday": {
+            "isClosed": false,
+            "openIntervals": [
+              {
+                "end": "23:59",
+                "start": "00:00"
+              }
+            ]
+          },
+          "tuesday": {
+            "isClosed": false,
+            "openIntervals": [
+              {
+                "end": "23:59",
+                "start": "00:00"
+              }
+            ]
+          },
+          "wednesday": {
+            "isClosed": false,
+            "openIntervals": [
+              {
+                "end": "23:59",
+                "start": "00:00"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "c_testHoursList": [
+      {
+        "friday": {
+          "isClosed": true
+        },
+        "holidayHours": [
+          {
+            "date": "2021-12-25",
+            "isClosed": true
+          }
+        ],
+        "monday": {
+          "isClosed": false,
+          "openIntervals": [
+            {
+              "end": "23:59",
+              "start": "00:00"
+            }
+          ]
+        },
+        "saturday": {
+          "isClosed": true
+        },
+        "sunday": {
+          "isClosed": true
+        },
+        "thursday": {
+          "isClosed": true
+        },
+        "tuesday": {
+          "isClosed": true
+        },
+        "wednesday": {
+          "isClosed": true
+        }
+      },
+      {
+        "friday": {
+          "isClosed": true
+        },
+        "monday": {
+          "isClosed": true
+        },
+        "saturday": {
+          "isClosed": true
+        },
+        "sunday": {
+          "isClosed": true
+        },
+        "thursday": {
+          "isClosed": true
+        },
+        "tuesday": {
+          "isClosed": false,
+          "openIntervals": [
+            {
+              "end": "20:00",
+              "start": "06:00"
+            }
+          ]
+        },
+        "wednesday": {
+          "isClosed": true
+        }
+      }
+    ],
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "1 Madison Ave",
+      "postalCode": "10010",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/hours": {
+      "holidayHours": [
+        {
+          "date": "2022-11-26",
+          "openIntervals": [
+            {
+              "end": "17:00",
+              "start": "09:00"
+            }
+          ]
+        },
+        {
+          "date": "2022-12-25",
+          "isClosed": true
+        },
+        {
+          "date": "2023-12-26",
+          "openIntervals": [
+            {
+              "end": "15:00",
+              "start": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    "yext/mainPhone": "+15085586736",
+    "yext/name": "Yext",
+    "yext/photoGallery": [
+      {
+        "image": {
+          "height": 800,
+          "thumbnails": [
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/599x450.jpg",
+              "width": 599
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/1066x800.jpg",
+          "width": 1066
+        }
+      }
+    ],
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/location",
+  "folder": "9bdbcb6bab954b43a0fdfb9faee15645",
+  "labels": []
+}

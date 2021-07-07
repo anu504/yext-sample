@@ -1,0 +1,56 @@
+{
+  "$id": "financialProfessional",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "yext/financialProfessional",
+  "field": [
+    {
+      "id": "c_articleCategory",
+      "required": false
+    },
+    {
+      "id": "c_newHours",
+      "required": false
+    },
+    {
+      "id": "c_primaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_rTF",
+      "required": false
+    },
+    {
+      "id": "c_testBoolean",
+      "required": false
+    },
+    {
+      "id": "c_testDailyTimes",
+      "required": false
+    },
+    {
+      "id": "c_testEntityReference",
+      "required": false
+    },
+    {
+      "id": "c_testHOurs1",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML2",
+      "required": false
+    },
+    {
+      "id": "c_testReference",
+      "required": false
+    },
+    {
+      "id": "c_testURL",
+      "required": false
+    }
+  ]
+}

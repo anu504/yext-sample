@@ -1,0 +1,12 @@
+{
+  "$id": "09d6c2320e5a423fb76b43403a5effa7",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "content": {
+    "yext/hours": null
+  },
+  "entityTypes": [
+    "yext/location"
+  ],
+  "externalId": "gMBTest",
+  "name": "GMB test"
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "494170470",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Accepting Patients",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "yext/acceptingNewPatients",
+        "searchBool": "TRUE"
+      }
+    ]
+  }
+}

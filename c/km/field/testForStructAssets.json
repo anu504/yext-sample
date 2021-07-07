@@ -1,0 +1,13 @@
+{
+  "$id": "c_testForStructAssets",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test For Struct Assets",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_testStructFieldForAssets"
+    }
+  },
+  "typeId": "yext/list"
+}

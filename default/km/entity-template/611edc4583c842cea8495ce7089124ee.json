@@ -1,0 +1,23 @@
+{
+  "$id": "611edc4583c842cea8495ce7089124ee",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "content": {
+    "yext/description": null,
+    "yext/featuredMessage": null,
+    "yext/hours": null,
+    "yext/keywords": null,
+    "yext/locatedIn": null,
+    "yext/logo": null,
+    "yext/mainPhone": null,
+    "yext/name": null,
+    "yext/neighborhood": null,
+    "yext/websiteUrl": null
+  },
+  "entityTypes": [
+    "ce_coffee"
+  ],
+  "externalId": "joeysTest",
+  "labelsToApply": [],
+  "localeCode": "en",
+  "name": "Joey\u0027s Test"
+}

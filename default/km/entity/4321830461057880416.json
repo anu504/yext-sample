@@ -1,0 +1,13 @@
+{
+  "$id": "4321830461057880416",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/answer": "Fed \\\u0026 Joey",
+    "yext/name": "Who makes Coffee?",
+    "yext/question": "Who makes Coffee?"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

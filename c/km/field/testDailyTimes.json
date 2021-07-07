@@ -1,0 +1,8 @@
+{
+  "$id": "c_testDailyTimes",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Daily Times",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "yext/dailyTimes"
+}

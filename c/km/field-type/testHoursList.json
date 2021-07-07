@@ -1,0 +1,28 @@
+{
+  "$id": "c_testHoursList",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Test Hours List",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "header",
+          "displayName": "Header",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "serviceHours",
+          "displayName": "Service Hours",
+          "isRequired": false,
+          "typeId": "yext/hours"
+        }
+      ]
+    }
+  }
+}

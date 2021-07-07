@@ -1,0 +1,6 @@
+{
+  "$id": "9f149fcf0d384d24b54d08db44f5fde9",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Healthcare Facility",
+  "parent": "yext/root"
+}

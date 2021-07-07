@@ -1,0 +1,15 @@
+{
+  "$id": "c_videoTest",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Video Test",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "videoType": {
+      "descriptionType": {
+        "stereotype": "MULTILINE"
+      }
+    }
+  },
+  "typeId": "yext/video"
+}

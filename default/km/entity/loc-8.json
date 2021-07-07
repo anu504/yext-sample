@@ -1,0 +1,299 @@
+{
+  "$id": "loc-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_primaryCTA": {
+      "label": "Condition- Test testing a really long nametesting a really long nametesting a really long nametesting a really long nametesting a really long nametesting a really long nametesting a really long nametesting a really long nametesting a really long nametestn"
+    },
+    "c_testBarmenia": {
+      "meineEmpfehlungenAgentur": [
+        {
+          "meineEmpfehlungenAgenturBild": {
+            "height": 250,
+            "thumbnails": [
+              {
+                "height": 250,
+                "url": "https://a.mktgcdn.com/p/PS1NYTmBhbTYWu6OgdsE3EwuJUob_U-89JyIFlSxUNc/250x250.png",
+                "width": 250
+              }
+            ],
+            "url": "https://a.mktgcdn.com/p/PS1NYTmBhbTYWu6OgdsE3EwuJUob_U-89JyIFlSxUNc/250x250.png",
+            "width": 250
+          }
+        }
+      ]
+    },
+    "yext/additionalHoursText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i",
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "92 River Road",
+      "postalCode": "10463",
+      "region": "NY"
+    },
+    "yext/alternatePhone": "+13478055645",
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "yext/displayCoordinate": {
+      "latitude": 40.8858307,
+      "longitude": -73.9200059
+    },
+    "yext/emails": [
+      "contact@company.com"
+    ],
+    "yext/fax": "+13478055649",
+    "yext/featuredMessage": {
+      "description": "Welcome to our store!",
+      "url": "http://yext.com"
+    },
+    "yext/geomodifier": "New York",
+    "yext/hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "holidayHours": [
+        {
+          "date": "2022-11-26",
+          "openIntervals": [
+            {
+              "end": "23:59",
+              "start": "00:00"
+            }
+          ]
+        },
+        {
+          "date": "2022-12-25",
+          "isClosed": true
+        },
+        {
+          "date": "2023-01-01",
+          "isClosed": true
+        }
+      ],
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      }
+    },
+    "yext/localPhone": "+13478055644",
+    "yext/logo": {
+      "description": "Logo",
+      "details": "Lots of logos",
+      "image": {
+        "alternateText": "A different take on logos",
+        "height": 300,
+        "sourceUrl": "https://a.mktgcdn.com/p/ZbRRwa7pwFGme8ol22pjkBgNkR2xKsXH8gbne1O--Bo/300x300.jpg",
+        "thumbnails": [
+          {
+            "height": 300,
+            "url": "https://a.mktgcdn.com/p/ZbRRwa7pwFGme8ol22pjkBgNkR2xKsXH8gbne1O--Bo/300x300.jpg",
+            "width": 300
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/ZbRRwa7pwFGme8ol22pjkBgNkR2xKsXH8gbne1O--Bo/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/ZbRRwa7pwFGme8ol22pjkBgNkR2xKsXH8gbne1O--Bo/300x300.jpg",
+        "width": 300
+      }
+    },
+    "yext/mainPhone": "+13478055634",
+    "yext/menuUrl": {
+      "displayUrl": "http://menu.company.com",
+      "preferDisplayUrl": false,
+      "url": "http://menu.company.com"
+    },
+    "yext/mobilePhone": "+13478055648",
+    "yext/name": "Location 2",
+    "yext/orderUrl": {
+      "displayUrl": "http://orders.company.com",
+      "preferDisplayUrl": false,
+      "url": "http://orders.company.com"
+    },
+    "yext/paymentOptions": [
+      "AMERICANEXPRESS",
+      "ANDROIDPAY",
+      "CASH",
+      "DINERSCLUB",
+      "DISCOVER"
+    ],
+    "yext/photoGallery": [
+      {
+        "description": "Retailer",
+        "details": "Lots of retailers",
+        "image": {
+          "height": 183,
+          "sourceUrl": "https://a.mktgcdn.com/p/5394VCvIc5Z1g1QJoweyQRqL5sHrb2JpM-20JSUJDMI/275x183.jpg",
+          "thumbnails": [
+            {
+              "height": 183,
+              "url": "https://a.mktgcdn.com/p/5394VCvIc5Z1g1QJoweyQRqL5sHrb2JpM-20JSUJDMI/275x183.jpg",
+              "width": 275
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p/5394VCvIc5Z1g1QJoweyQRqL5sHrb2JpM-20JSUJDMI/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/5394VCvIc5Z1g1QJoweyQRqL5sHrb2JpM-20JSUJDMI/275x183.jpg",
+          "width": 275
+        }
+      },
+      {
+        "description": "Retailer 2",
+        "details": "Lots of retailers",
+        "image": {
+          "height": 162,
+          "sourceUrl": "https://a.mktgcdn.com/p/hwKp5Spb9ilPgCdEwyHTSbhcxMoFSWesRObNl-bDbnA/312x162.jpg",
+          "thumbnails": [
+            {
+              "height": 162,
+              "url": "https://a.mktgcdn.com/p/hwKp5Spb9ilPgCdEwyHTSbhcxMoFSWesRObNl-bDbnA/312x162.jpg",
+              "width": 312
+            },
+            {
+              "height": 101,
+              "url": "https://a.mktgcdn.com/p/hwKp5Spb9ilPgCdEwyHTSbhcxMoFSWesRObNl-bDbnA/196x101.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/hwKp5Spb9ilPgCdEwyHTSbhcxMoFSWesRObNl-bDbnA/312x162.jpg",
+          "width": 312
+        }
+      },
+      {
+        "description": "Retailer 3",
+        "details": "Lots of retailers",
+        "image": {
+          "height": 170,
+          "sourceUrl": "https://a.mktgcdn.com/p/ocOT9KKTjLfKeyUo9bDl-ysgM5c6ciTREbkrhRFEm64/296x170.jpg",
+          "thumbnails": [
+            {
+              "height": 170,
+              "url": "https://a.mktgcdn.com/p/ocOT9KKTjLfKeyUo9bDl-ysgM5c6ciTREbkrhRFEm64/296x170.jpg",
+              "width": 296
+            },
+            {
+              "height": 112,
+              "url": "https://a.mktgcdn.com/p/ocOT9KKTjLfKeyUo9bDl-ysgM5c6ciTREbkrhRFEm64/196x112.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/ocOT9KKTjLfKeyUo9bDl-ysgM5c6ciTREbkrhRFEm64/296x170.jpg",
+          "width": 296
+        }
+      },
+      {
+        "description": "Retailers 4",
+        "details": "Lots of retailers",
+        "image": {
+          "height": 168,
+          "sourceUrl": "https://a.mktgcdn.com/p/bfl70rPfCU5J-GKt7sJCsKJDsyLLpIg7WjZGq6xS2qE/300x168.jpg",
+          "thumbnails": [
+            {
+              "height": 168,
+              "url": "https://a.mktgcdn.com/p/bfl70rPfCU5J-GKt7sJCsKJDsyLLpIg7WjZGq6xS2qE/300x168.jpg",
+              "width": 300
+            },
+            {
+              "height": 109,
+              "url": "https://a.mktgcdn.com/p/bfl70rPfCU5J-GKt7sJCsKJDsyLLpIg7WjZGq6xS2qE/196x109.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/bfl70rPfCU5J-GKt7sJCsKJDsyLLpIg7WjZGq6xS2qE/300x168.jpg",
+          "width": 300
+        }
+      }
+    ],
+    "yext/priceRange": "THREE",
+    "yext/products": [
+      "Groceries",
+      "Staples",
+      "Essentials",
+      "Necessities"
+    ],
+    "yext/reservationUrl": {
+      "displayUrl": "http://reservations.company.com",
+      "preferDisplayUrl": false,
+      "url": "http://reservations.company.com"
+    },
+    "yext/routableCoordinate": {
+      "latitude": 40.8857851,
+      "longitude": -73.9197524
+    },
+    "yext/services": [
+      "Service 1",
+      "Service 2",
+      "Service 3",
+      "Service 4"
+    ],
+    "yext/specialities": [
+      "Goods",
+      "Services"
+    ],
+    "yext/timezone": "America/New_York",
+    "yext/tollFreePhone": "+13478055647",
+    "yext/ttyPhone": "+13478055650",
+    "yext/websiteUrl": {
+      "displayUrl": "http://company.com",
+      "preferDisplayUrl": false,
+      "url": "http://company.com"
+    },
+    "yext/yearEstablished": 1910
+  },
+  "entityType": "yext/location",
+  "labels": []
+}

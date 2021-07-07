@@ -1,0 +1,126 @@
+{
+  "$id": "ce_service",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Service",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/landingPageUrl",
+      "required": false
+    },
+    {
+      "id": "yext/description",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_activeInAnswers",
+      "required": false
+    },
+    {
+      "id": "c_answersKeywords",
+      "required": false
+    },
+    {
+      "id": "c_articleCategory",
+      "required": false
+    },
+    {
+      "id": "c_associatedLocations",
+      "required": false
+    },
+    {
+      "id": "c_associatedProfessionals",
+      "required": false
+    },
+    {
+      "id": "c_complexVideoTest",
+      "required": false
+    },
+    {
+      "id": "c_newHours",
+      "required": false
+    },
+    {
+      "id": "c_photo",
+      "required": false
+    },
+    {
+      "id": "c_primaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_rTF",
+      "required": false
+    },
+    {
+      "id": "c_secondaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_serviceCategory",
+      "required": false
+    },
+    {
+      "id": "c_testBoolean",
+      "required": false
+    },
+    {
+      "id": "c_testCFTList",
+      "required": false
+    },
+    {
+      "id": "c_testDailyTimes",
+      "required": false
+    },
+    {
+      "id": "c_testHOurs1",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML2",
+      "required": false
+    },
+    {
+      "id": "c_testReference",
+      "required": false
+    },
+    {
+      "id": "c_testURL",
+      "required": false
+    },
+    {
+      "id": "c_uRLTestField",
+      "required": false
+    },
+    {
+      "id": "c_videoTest",
+      "required": false
+    },
+    {
+      "id": "c_videoTestField",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Services"
+}

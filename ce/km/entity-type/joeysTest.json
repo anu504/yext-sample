@@ -1,0 +1,70 @@
+{
+  "$id": "ce_joeysTest",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "A second Test",
+  "displayName": "Joey\u0027s Test",
+  "enabled": false,
+  "field": [
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_articleCategory",
+      "required": false
+    },
+    {
+      "id": "c_newHours",
+      "required": false
+    },
+    {
+      "id": "c_primaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_rTF",
+      "required": false
+    },
+    {
+      "id": "c_testBoolean",
+      "required": false
+    },
+    {
+      "id": "c_testDailyTimes",
+      "required": false
+    },
+    {
+      "id": "c_testHOurs1",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML2",
+      "required": false
+    },
+    {
+      "id": "c_testReference",
+      "required": false
+    },
+    {
+      "id": "c_testURL",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": ""
+}

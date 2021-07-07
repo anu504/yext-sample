@@ -1,0 +1,6 @@
+{
+  "$id": "852fdeff664a4ac099b81342298ff0f3",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Job",
+  "parent": "yext/root"
+}

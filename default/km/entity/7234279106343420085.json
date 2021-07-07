@@ -1,0 +1,23 @@
+{
+  "$id": "7234279106343420085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "fr",
+  "content": {
+    "yext/answer": "Answer in french",
+    "yext/name": "Question in French",
+    "yext/question": "Question in French"
+  },
+  "entityType": "yext/faq",
+  "folder": "880fbcb88d0c4c2f85edbcdf059dcdfa",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "en",
+      "content": {
+        "yext/answer": "Seems like it",
+        "yext/name": "Can I save and add another entity and then press cancel mid way and have my initial entities added?",
+        "yext/question": "Can I save and add another entity and then press cancel mid way and have my initial entities added?"
+      }
+    }
+  ]
+}

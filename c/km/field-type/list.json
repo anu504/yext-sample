@@ -1,0 +1,27 @@
+{
+  "$id": "c_list",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "List",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "list",
+          "displayName": "List",
+          "isRequired": false,
+          "typeId": "yext/list",
+          "type": {
+            "listType": {
+              "typeId": "yext/string",
+              "type": {
+                "stringType": {
+                  "stereotype": "SIMPLE"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

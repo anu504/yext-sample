@@ -1,0 +1,13 @@
+{
+  "$id": "c_listOfLists",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "List of Lists",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_list"
+    }
+  },
+  "typeId": "yext/list"
+}

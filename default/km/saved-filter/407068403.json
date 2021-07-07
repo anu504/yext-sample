@@ -1,0 +1,14 @@
+{
+  "$id": "407068403",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "US Entities",
+  "filter": {
+    "geo": [
+      {
+        "miles": 10.0,
+        "text": "united states",
+        "type": "IN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "c_testNumberList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Number List",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/decimal",
+      "type": {
+        "decimalType": {}
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

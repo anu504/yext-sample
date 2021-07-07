@@ -1,0 +1,15 @@
+{
+  "$id": "125613134",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "job filter test rename",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "yext/job"
+        ],
+        "type": "IS"
+      }
+    ]
+  }
+}

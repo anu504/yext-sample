@@ -1,0 +1,13 @@
+{
+  "$id": "c_testCTAList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test CTA List",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/cta"
+    }
+  },
+  "typeId": "yext/list"
+}

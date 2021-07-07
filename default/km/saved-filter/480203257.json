@@ -1,0 +1,18 @@
+{
+  "$id": "480203257",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "test",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "yext/jobLocation",
+        "text": {
+          "search": [
+            ""
+          ],
+          "type": "CONTAINS"
+        }
+      }
+    ]
+  }
+}

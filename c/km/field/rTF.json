@@ -1,0 +1,20 @@
+{
+  "$id": "c_rTF",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "RTF",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextType": {
+      "supportedFormat": [
+        "BOLD",
+        "BULLETED_LIST",
+        "HYPERLINK",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "yext/richText"
+}

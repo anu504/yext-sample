@@ -1,0 +1,13 @@
+{
+  "$id": "8967791785481024029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/answer": "FAQ",
+    "yext/name": "Test",
+    "yext/question": "Test"
+  },
+  "entityType": "yext/faq",
+  "folder": "yext/root",
+  "labels": []
+}

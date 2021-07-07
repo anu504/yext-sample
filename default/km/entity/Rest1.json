@@ -1,0 +1,124 @@
+{
+  "$id": "Rest1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeInAnswers": true,
+    "c_testCFTList": [
+      {
+        "label": "Test 1",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 2",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 3",
+        "url": "http://google.com"
+      }
+    ],
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "1 Madison Ave",
+      "postalCode": "10010",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "yext/headshot": {
+      "height": 800,
+      "thumbnails": [
+        {
+          "height": 464,
+          "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/599x450.jpg",
+          "width": 599
+        },
+        {
+          "height": 147,
+          "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/1066x800.jpg",
+      "width": 1066
+    },
+    "yext/hours": {
+      "friday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "16:30",
+            "start": "10:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "10:00"
+          }
+        ]
+      }
+    },
+    "yext/mainPhone": "+17574070511",
+    "yext/name": "Turtlehead Tacos",
+    "yext/nudgeEnabled": true,
+    "yext/timezone": "America/New_York",
+    "yext/websiteUrl": {
+      "displayUrl": "https://www.yext.com",
+      "preferDisplayUrl": false,
+      "url": "https://www.yext.com"
+    }
+  },
+  "entityType": "yext/healthcareProfessional",
+  "folder": "e62cccedee79427eb0261637f19a6fd0",
+  "labels": []
+}

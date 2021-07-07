@@ -1,0 +1,30 @@
+{
+  "$id": "d0dbecf191204b46bebea7326d704ac7",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "entityTypes": [
+    "yext/location",
+    "yext/healthcareProfessional",
+    "yext/healthcareFacility",
+    "yext/event",
+    "yext/atm",
+    "yext/restaurant",
+    "yext/organization",
+    "yext/categoryPage",
+    "yext/hotel",
+    "yext/job",
+    "yext/faq",
+    "yext/hotelRoomType",
+    "ce_condition",
+    "ce_service",
+    "ce_leadership",
+    "ce_specialty",
+    "ce_menuItem",
+    "ce_product",
+    "yext/helpArticle",
+    "yext/financialProfessional",
+    "ce_coffee",
+    "ce_blogPost"
+  ],
+  "externalId": "testing123",
+  "name": "Testing123"
+}

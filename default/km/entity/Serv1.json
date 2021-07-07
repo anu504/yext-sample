@@ -1,0 +1,51 @@
+{
+  "$id": "Serv1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeInAnswers": true,
+    "c_associatedProfessionals": [
+      "HP1"
+    ],
+    "c_photo": {
+      "image": {
+        "height": 256,
+        "thumbnails": [
+          {
+            "height": 196,
+            "url": "http://a.mktgcdn.com/p/BtxQ1WL6yhiVeCKoGC30hDvJvDfVfJU_9UM3n67X2IE/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/BtxQ1WL6yhiVeCKoGC30hDvJvDfVfJU_9UM3n67X2IE/256x256.png",
+        "width": 256
+      }
+    },
+    "c_primaryCTA": {
+      "label": "Visit Page",
+      "link": "https://www.yext.com",
+      "linkType": "URL"
+    },
+    "c_serviceCategory": "Service Test",
+    "c_testCFTList": [
+      {
+        "label": "Test 1",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 2",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 3",
+        "url": "http://google.com"
+      }
+    ],
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "yext/landingPageUrl": "https://www.yext.com",
+    "yext/name": "Service"
+  },
+  "entityType": "ce_service",
+  "folder": "3a519ed4279b419083b4e5740047ad6b",
+  "labels": []
+}

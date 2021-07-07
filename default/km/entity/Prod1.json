@@ -1,0 +1,66 @@
+{
+  "$id": "Prod1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeInAnswers": true,
+    "c_photo": {
+      "image": {
+        "height": 1112,
+        "thumbnails": [
+          {
+            "height": 732,
+            "url": "http://a.mktgcdn.com/p/qwW3rhuJA41v9mkTxLj0gzlmeODKmKW0crBQt-VJMV4/619x732.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p/qwW3rhuJA41v9mkTxLj0gzlmeODKmKW0crBQt-VJMV4/380x450.png",
+            "width": 380
+          },
+          {
+            "height": 231,
+            "url": "http://a.mktgcdn.com/p/qwW3rhuJA41v9mkTxLj0gzlmeODKmKW0crBQt-VJMV4/196x231.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/qwW3rhuJA41v9mkTxLj0gzlmeODKmKW0crBQt-VJMV4/940x1112.png",
+        "width": 940
+      }
+    },
+    "c_price": "15",
+    "c_primaryCTA": {
+      "label": "Visit Page",
+      "link": "https://www.yext.com",
+      "linkType": "URL"
+    },
+    "c_productCategory": "Yext Answers",
+    "c_rTF": "Buy now at [yext.com/product](http://yext.com/product)!",
+    "c_testCFTList": [
+      {
+        "label": "Test 1",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 2",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 3",
+        "url": "http://google.com"
+      }
+    ],
+    "c_testURL": "http://yext.com/product",
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "yext/landingPageUrl": "https://www.yext.com",
+    "yext/name": "Phone",
+    "yext/websiteUrl": {
+      "displayUrl": "http://yext.com/product",
+      "preferDisplayUrl": false,
+      "url": "http://yext.com/product"
+    }
+  },
+  "entityType": "ce_product",
+  "folder": "0becd2dbe0a14edf818fa6aa425e634d",
+  "labels": []
+}

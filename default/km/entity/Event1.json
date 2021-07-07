@@ -1,0 +1,57 @@
+{
+  "$id": "Event1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeInAnswers": true,
+    "c_testCFTList": [
+      {
+        "label": "Test 1",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 2",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 3",
+        "url": "http://google.com"
+      }
+    ],
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "1 Madison Ave",
+      "postalCode": "10010",
+      "region": "NY"
+    },
+    "yext/attendance": {
+      "attendanceMode": "MIXED",
+      "virtualLocationUrl": "http://yext.com"
+    },
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "yext/landingPageUrl": "https://www.yext.com",
+    "yext/linkedLocation": "3232482737",
+    "yext/name": "Event",
+    "yext/ticketPriceRange": {
+      "currencyCode": "USD",
+      "maxValue": "50",
+      "minValue": "10"
+    },
+    "yext/ticketUrl": "https://www.yext.com",
+    "yext/time": {
+      "end": "2020-03-16T17:00",
+      "start": "2020-03-16T09:00"
+    },
+    "yext/timezone": "America/New_York",
+    "yext/venueName": "Yext",
+    "yext/websiteUrl": {
+      "displayUrl": "https://www.yext.com",
+      "preferDisplayUrl": false,
+      "url": "https://www.yext.com"
+    }
+  },
+  "entityType": "yext/event",
+  "folder": "679425575e124fc49bf07c43c1e7507e",
+  "labels": []
+}

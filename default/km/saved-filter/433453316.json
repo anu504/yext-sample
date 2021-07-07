@@ -1,0 +1,13 @@
+{
+  "$id": "433453316",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Accepts Reservations (Renamed)",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "yext/acceptsReservations",
+        "searchBool": "TRUE"
+      }
+    ]
+  }
+}

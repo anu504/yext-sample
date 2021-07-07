@@ -1,0 +1,18 @@
+{
+  "$id": "c_exampleListField",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Example List Field",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

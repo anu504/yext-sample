@@ -1,0 +1,40 @@
+{
+  "$id": "siteConnector",
+  "$schema": "https://schema.yext.com/config/km/connector/v1",
+  "displayName": "Site Connector",
+  "entityType": "ce_customEntityType",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "ubswealthmanagement",
+        "urlPatterns": []
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_URL",
+        "header": "URL"
+      },
+      {
+        "type": "PAGE_ID",
+        "header": "ID"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "field": "yext/entityId",
+      "header": "ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_testURL",
+      "header": "URL",
+      "subfieldPath": []
+    }
+  ],
+  "scheduleConfig": {
+    "useSourceSchedule": false,
+    "runMode": "DEFAULT"
+  }
+}

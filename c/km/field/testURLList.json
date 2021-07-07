@@ -1,0 +1,18 @@
+{
+  "$id": "c_testURLList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test URL List",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "type": {
+        "stringType": {
+          "stereotype": "URL"
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

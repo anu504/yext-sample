@@ -1,0 +1,14 @@
+{
+  "$id": "e349be09b22e44b8b0f8b6f652054710",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "content": {
+    "yext/answer": "Answer in french",
+    "yext/name": "Question in French"
+  },
+  "entityTypes": [
+    "yext/faq"
+  ],
+  "externalId": "testFrenchTemplate",
+  "localeCode": "fr",
+  "name": "Test French Template"
+}

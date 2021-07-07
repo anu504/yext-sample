@@ -1,0 +1,17 @@
+{
+  "$id": "348559440",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Test Saved Filter",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "yext/acceptsReservations",
+        "searchBool": "FALSE"
+      },
+      {
+        "fieldId": "c_activeInAnswers",
+        "searchBool": "TRUE"
+      }
+    ]
+  }
+}

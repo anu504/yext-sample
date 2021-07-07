@@ -1,0 +1,13 @@
+{
+  "$id": "c_barmeniaAssetsTestList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "barmenia assets test list",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_intentPagesBarmenia"
+    }
+  },
+  "typeId": "yext/list"
+}

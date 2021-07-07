@@ -1,0 +1,6 @@
+{
+  "$id": "62b54d5af2ec426ebf7cd29e078ae167",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Zategory Page",
+  "parent": "yext/root"
+}

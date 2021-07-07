@@ -1,0 +1,48 @@
+{
+  "$id": "8731248373465881",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/address": {
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "line1": "142 Skillman Ave",
+      "postalCode": "11211",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/categoryIds": [
+      "1324880"
+    ],
+    "yext/firstName": "Sam",
+    "yext/headshot": {
+      "height": 800,
+      "thumbnails": [
+        {
+          "height": 464,
+          "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/619x464.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/599x450.jpg",
+          "width": 599
+        },
+        {
+          "height": 147,
+          "url": "http://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/KxwU7kA0gt35FeIZdsJsPBqHwV-tw8RbhCJ46SDV7rE/1066x800.jpg",
+      "width": 1066
+    },
+    "yext/lastName": "Jones",
+    "yext/name": "Sam Jones, MD",
+    "yext/npi": "7419438719",
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/healthcareProfessional",
+  "folder": "yext/root",
+  "labels": []
+}

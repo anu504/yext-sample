@@ -1,0 +1,11 @@
+{
+  "$id": "testCat",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/name": "Test Category"
+  },
+  "entityType": "yext/categoryPage",
+  "folder": "62b54d5af2ec426ebf7cd29e078ae167",
+  "labels": []
+}

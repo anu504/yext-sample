@@ -1,0 +1,23 @@
+{
+  "$id": "c_testRichText",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Rich Text",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextType": {
+      "supportedFormat": [
+        "BOLD",
+        "BULLETED_LIST",
+        "CODE_SPAN",
+        "HEADINGS",
+        "HYPERLINK",
+        "IMAGE",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "yext/richText"
+}

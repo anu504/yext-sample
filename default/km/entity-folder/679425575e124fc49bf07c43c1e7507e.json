@@ -1,0 +1,6 @@
+{
+  "$id": "679425575e124fc49bf07c43c1e7507e",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Event",
+  "parent": "yext/root"
+}

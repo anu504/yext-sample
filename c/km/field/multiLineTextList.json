@@ -1,0 +1,18 @@
+{
+  "$id": "c_multiLineTextList",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Multi line text list",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/string",
+      "type": {
+        "stringType": {
+          "stereotype": "MULTILINE"
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

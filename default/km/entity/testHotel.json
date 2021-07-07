@@ -1,0 +1,51 @@
+{
+  "$id": "testHotel",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_testBoolean": true,
+    "c_testEntityReference": [
+      "3871271818345428591",
+      "Event1"
+    ],
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "1000 1st St",
+      "postalCode": "10016",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/headshot": {
+      "height": 400,
+      "sourceUrl": "https://www.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif",
+      "thumbnails": [
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/5MlyEhGpLeY_xIHUArKIjtE1abqnE7M61mmjBP_NPmo/600x400.png",
+          "width": 600
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/5MlyEhGpLeY_xIHUArKIjtE1abqnE7M61mmjBP_NPmo/600x400.png",
+      "width": 600
+    },
+    "yext/mainPhone": "+15088230823",
+    "yext/name": "Fed\u0027s Hotel",
+    "yext/rankTrackingCompetitors": [
+      {
+        "name": "Test",
+        "website": "http://github.com/fcfinjap"
+      }
+    ],
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/financialProfessional",
+  "folder": "b468ba89cbf34766841e8ed626dbdc17",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "ar",
+      "content": {}
+    }
+  ]
+}

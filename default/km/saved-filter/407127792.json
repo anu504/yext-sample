@@ -1,0 +1,15 @@
+{
+  "$id": "407127792",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Headshot (ESS)",
+  "filter": {
+    "fieldsWithData": [
+      {
+        "fieldId": [
+          "yext/headshot"
+        ],
+        "type": "ANY"
+      }
+    ]
+  }
+}

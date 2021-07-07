@@ -1,0 +1,6 @@
+{
+  "$id": "43b488e2091e4b2cbafc16460de05427",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "ATM",
+  "parent": "yext/root"
+}

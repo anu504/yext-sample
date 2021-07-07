@@ -1,0 +1,152 @@
+{
+  "$id": "healthcareProfessional",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": true,
+  "entityType": "yext/healthcareProfessional",
+  "field": [
+    {
+      "id": "c_activeInAnswers",
+      "required": false
+    },
+    {
+      "id": "c_answersKeywords",
+      "required": false
+    },
+    {
+      "id": "c_answersSpecialty",
+      "required": false
+    },
+    {
+      "id": "c_articleCategory",
+      "required": false
+    },
+    {
+      "id": "c_associatedLocations",
+      "required": false
+    },
+    {
+      "id": "c_associatedProfessionals",
+      "required": false
+    },
+    {
+      "id": "c_complexVideoTest",
+      "required": false
+    },
+    {
+      "id": "c_multiLineTextList",
+      "required": false
+    },
+    {
+      "id": "c_newHours",
+      "required": false
+    },
+    {
+      "id": "c_primaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_rTF",
+      "required": false
+    },
+    {
+      "id": "c_secondaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_testBoolean",
+      "required": false
+    },
+    {
+      "id": "c_testCFTList",
+      "required": false
+    },
+    {
+      "id": "c_testCTAList",
+      "required": false
+    },
+    {
+      "id": "c_testDailyTimes",
+      "required": false
+    },
+    {
+      "id": "c_testDateList",
+      "required": false
+    },
+    {
+      "id": "c_testEntityReference",
+      "required": false
+    },
+    {
+      "id": "c_testHOurs1",
+      "required": false
+    },
+    {
+      "id": "c_testHoursList",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineFieldWHTML2",
+      "required": false
+    },
+    {
+      "id": "c_testMultiLineTextList",
+      "required": false
+    },
+    {
+      "id": "c_testMultiOptionSelect",
+      "required": false
+    },
+    {
+      "id": "c_testNumberList",
+      "required": false
+    },
+    {
+      "id": "c_testReference",
+      "required": false
+    },
+    {
+      "id": "c_testRichText",
+      "required": false
+    },
+    {
+      "id": "c_testRichTextList",
+      "required": false
+    },
+    {
+      "id": "c_testSingleOptionSelectList",
+      "required": false
+    },
+    {
+      "id": "c_testTextList",
+      "required": false
+    },
+    {
+      "id": "c_testURL",
+      "required": false
+    },
+    {
+      "id": "c_testURLList",
+      "required": false
+    },
+    {
+      "id": "c_testYesNoList",
+      "required": false
+    },
+    {
+      "id": "c_uRLTestField",
+      "required": false
+    },
+    {
+      "id": "c_videoTest",
+      "required": false
+    },
+    {
+      "id": "c_videoTestField",
+      "required": false
+    }
+  ]
+}

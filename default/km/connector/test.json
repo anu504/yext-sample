@@ -1,0 +1,46 @@
+{
+  "$id": "test",
+  "$schema": "https://schema.yext.com/config/km/connector/v1",
+  "displayName": "Test",
+  "entityType": "yext/location",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "ubswealthmanagement",
+        "urlPatterns": [
+          "https://www.ubs.com/us/en/wealth-management/our-services/*"
+        ]
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "PAGE_TITLE",
+        "header": "Page Title"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "field": "yext/name",
+      "header": "Page Title",
+      "subfieldPath": []
+    },
+    {
+      "field": "yext/websiteUrl",
+      "header": "Page URL",
+      "subfieldPath": [
+        {
+          "name": "url"
+        }
+      ]
+    }
+  ],
+  "scheduleConfig": {
+    "useSourceSchedule": false,
+    "runMode": "DEFAULT"
+  }
+}

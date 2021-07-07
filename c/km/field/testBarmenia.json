@@ -1,0 +1,8 @@
+{
+  "$id": "c_testBarmenia",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Barmenia",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_meineEmpfehlungenIntentPages"
+}

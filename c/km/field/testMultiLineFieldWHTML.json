@@ -1,0 +1,13 @@
+{
+  "$id": "c_testMultiLineFieldWHTML",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Test Multi Line Field w HTML",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "yext/string"
+}

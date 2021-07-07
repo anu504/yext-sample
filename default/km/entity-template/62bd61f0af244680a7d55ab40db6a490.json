@@ -1,0 +1,14 @@
+{
+  "$id": "62bd61f0af244680a7d55ab40db6a490",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "content": {
+    "yext/name": null,
+    "yext/question": null
+  },
+  "entityTypes": [
+    "yext/faq"
+  ],
+  "externalId": "fAQTemplat",
+  "localeCode": "en",
+  "name": "FAQ Templat"
+}

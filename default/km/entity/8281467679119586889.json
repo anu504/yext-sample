@@ -1,0 +1,20 @@
+{
+  "$id": "8281467679119586889",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "230 E 30th Street",
+      "postalCode": "10016",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/name": "Hotel",
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/hotel",
+  "folder": "yext/root",
+  "labels": []
+}

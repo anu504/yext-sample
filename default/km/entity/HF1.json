@@ -1,0 +1,131 @@
+{
+  "$id": "HF1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeInAnswers": true,
+    "c_associatedProfessionals": [
+      "HP1"
+    ],
+    "c_testCFTList": [
+      {
+        "label": "Test 1",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 2",
+        "url": "http://google.com"
+      },
+      {
+        "label": "Test 3",
+        "url": "http://google.com"
+      }
+    ],
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "1 Madison Ave",
+      "postalCode": "10010",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit ut aliquam purus sit amet. Viverra nam libero justo laoreet sit amet cursus. Amet commodo nulla facilisi nullam vehicula. Semper viverra nam libero justo laoreet sit amet cursus sit. Sit amet massa vitae tortor condimentum lacinia quis. Eget egestas purus viverra accumsan in nisl nisi scelerisque.",
+    "yext/hours": {
+      "friday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "holidayHours": [
+        {
+          "date": "2022-11-26",
+          "openIntervals": [
+            {
+              "end": "17:00",
+              "start": "09:00"
+            }
+          ]
+        },
+        {
+          "date": "2022-12-25",
+          "isClosed": true
+        }
+      ],
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "yext/mainPhone": "+17574070511",
+    "yext/name": "Yext Primary Care",
+    "yext/timezone": "America/New_York",
+    "yext/websiteUrl": {
+      "displayUrl": "https://www.yext.com",
+      "preferDisplayUrl": false,
+      "url": "https://www.yext.com"
+    }
+  },
+  "entityType": "yext/healthcareProfessional",
+  "folder": "9f149fcf0d384d24b54d08db44f5fde9",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "sq",
+      "content": {}
+    }
+  ]
+}

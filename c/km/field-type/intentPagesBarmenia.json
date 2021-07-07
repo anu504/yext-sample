@@ -1,0 +1,80 @@
+{
+  "$id": "c_intentPagesBarmenia",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "description": "",
+  "displayName": "Intent Pages Barmenia",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "meineEmpfehlungenAgenturBeschreibung",
+          "displayName": "Meine Empfehlungen Agentur Beschreibung",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "meineEmpfehlungenAgenturDetails",
+          "displayName": "Meine Empfehlungen Agentur Details",
+          "isRequired": false,
+          "typeId": "yext/richText",
+          "type": {
+            "richTextType": {
+              "supportedFormat": [
+                "BOLD",
+                "BULLETED_LIST",
+                "HYPERLINK",
+                "ITALICS",
+                "NUMBERED_LIST",
+                "UNDERLINE"
+              ]
+            }
+          }
+        },
+        {
+          "name": "meineEmpfehlungenAgenturBild",
+          "displayName": "Meine Empfehlungen Agentur Bild",
+          "isRequired": false,
+          "typeId": "yext/image",
+          "type": {
+            "imageType": {
+              "isSimpleImage": true,
+              "minSize": {
+                "width": 0,
+                "height": 0
+              },
+              "unconstrainedAspectRatioAllowed": true,
+              "noAllowedAspectRatios": true
+            }
+          }
+        },
+        {
+          "name": "empfehlungenAgenturHandlungsaufforderungCTACopy",
+          "displayName": "Empfehlungen Agentur Handlungsaufforderung CTA Copy",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "empfehlungenAgenturHandlungsaufforderungCTAURL",
+          "displayName": "Empfehlungen Agentur Handlungsaufforderung CTA URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

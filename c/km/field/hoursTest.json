@@ -1,0 +1,8 @@
+{
+  "$id": "c_hoursTest",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Hours test",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "yext/hours"
+}

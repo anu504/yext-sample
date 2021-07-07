@@ -1,0 +1,33 @@
+{
+  "$id": "c_testCft",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Test CFT",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "label",
+          "displayName": "Label",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "url",
+          "displayName": "URL",
+          "isRequired": false,
+          "typeId": "yext/string",
+          "type": {
+            "stringType": {
+              "stereotype": "URL"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

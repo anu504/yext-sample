@@ -1,0 +1,15 @@
+{
+  "$id": "407073802",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "No Headshot",
+  "filter": {
+    "fieldsWithoutData": [
+      {
+        "fieldId": [
+          "yext/headshot"
+        ],
+        "type": "ANY"
+      }
+    ]
+  }
+}

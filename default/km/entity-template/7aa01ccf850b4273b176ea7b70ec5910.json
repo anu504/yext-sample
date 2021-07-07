@@ -1,0 +1,14 @@
+{
+  "$id": "7aa01ccf850b4273b176ea7b70ec5910",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v1",
+  "entityTypes": [
+    "yext/location",
+    "yext/healthcareFacility",
+    "yext/atm",
+    "yext/restaurant",
+    "yext/hotel",
+    "yext/hotelRoomType"
+  ],
+  "externalId": "testing",
+  "name": "Testing"
+}

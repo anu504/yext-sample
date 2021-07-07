@@ -1,0 +1,399 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "answers",
+  "name": "answers",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "atms": {
+      "entityTypes": [
+        "atm"
+      ],
+      "name": "ATMs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true,
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "cdc-covid": {
+      "headers": {},
+      "method": "POST",
+      "name": "CDC Coronavirus FAQs",
+      "params": {},
+      "source": "CUSTOM_SEARCHER",
+      "url": "https://lps9q23cb7.execute-api.us-east-1.amazonaws.com/prod"
+    },
+    "conditions": {
+      "entityTypes": [
+        "ce_condition"
+      ],
+      "name": "Conditions",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_associatedLocations.name": {
+          "textSearch": true
+        },
+        "c_associatedProfessionals.name": {
+          "textSearch": true
+        },
+        "c_associatedSpecialty.name": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "events": {
+      "entityTypes": [
+        "event"
+      ],
+      "name": "Events",
+      "searchableFields": {
+        "address": {
+          "directAnswer": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        },
+        "time": {
+          "directAnswer": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "facilities": {
+      "entityTypes": [
+        "healthcareFacility"
+      ],
+      "name": "Facilities",
+      "searchableFields": {
+        "address": {
+          "directAnswer": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "c_associatedProfessionals.name": {
+          "textSearch": true
+        },
+        "c_associatedSpecialty.name": {
+          "nlpFilter": true
+        },
+        "mainPhone": {
+          "directAnswer": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "jobs": {
+      "entityTypes": [
+        "job"
+      ],
+      "name": "Jobs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "employmentType": {
+          "textSearch": true
+        },
+        "hiringOrganization": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "leadership": {
+      "entityTypes": [
+        "ce_leadership"
+      ],
+      "name": "Leadership",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_title": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "links": {
+      "apiKey": "REPLACE_API_KEY",
+      "cx": "REPLACE_CX_KEY",
+      "name": "Links",
+      "siteRestricted": false,
+      "source": "GOOGLE_CSE",
+      "useSynonyms": "ALL_SYNONYMS"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Locations",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "menu-items": {
+      "entityTypes": [
+        "ce_menuItem"
+      ],
+      "name": "Menu Items",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_allergens": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "nhs-covid": {
+      "headers": {},
+      "method": "POST",
+      "name": "NHS Coronavirus FAQs",
+      "params": {},
+      "source": "CUSTOM_SEARCHER",
+      "url": "https://qt81fms627.execute-api.us-east-1.amazonaws.com/prod"
+    },
+    "products": {
+      "entityTypes": [
+        "ce_product"
+      ],
+      "name": "Products",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_answersKeywords": {
+          "textSearch": true
+        },
+        "c_productCategory": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "providers": {
+      "entityTypes": [
+        "healthcareProfessional"
+      ],
+      "name": "Providers",
+      "searchableFields": {
+        "address": {
+          "directAnswer": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "builtin.medicalSpecialty": {
+          "nlpFilter": true
+        },
+        "builtinFile.medicalCondition": {
+          "nlpFilter": true
+        },
+        "c_associatedLocations.name": {
+          "textSearch": true
+        },
+        "firstName": {
+          "nlpFilter": true
+        },
+        "gender": {
+          "textSearch": true
+        },
+        "insuranceAccepted": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "languages": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "lastName": {
+          "nlpFilter": true
+        },
+        "mainPhone": {
+          "directAnswer": true
+        },
+        "name": {
+          "nlpFilter": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "restaurants": {
+      "entityTypes": [
+        "restaurant"
+      ],
+      "name": "Restaurants",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true,
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "services": {
+      "entityTypes": [
+        "ce_service"
+      ],
+      "name": "Services",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_answersKeywords": {
+          "textSearch": true
+        },
+        "c_associatedLocations.name": {
+          "textSearch": true
+        },
+        "c_associatedProfessionals.name": {
+          "textSearch": true
+        },
+        "c_serviceCategory": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "specialties": {
+      "entityTypes": [
+        "ce_specialty"
+      ],
+      "name": "Specialties",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "who-covid": {
+      "headers": {},
+      "method": "POST",
+      "name": "WHO Coronavirus FAQs",
+      "params": {},
+      "source": "CUSTOM_SEARCHER",
+      "url": "https://twm82am3y0.execute-api.us-east-1.amazonaws.com/prod"
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "What is Yext?",
+      "Services",
+      "Locations near me"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "covid",
+        "coronavirus",
+        "corona",
+        "virus",
+        "covid19",
+        "covid-19"
+      ]
+    ],
+    "normalization": []
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": []
+}

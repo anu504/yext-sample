@@ -1,0 +1,6 @@
+{
+  "$id": "f6a48bf62e894a53bc279e10cdd4b066",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Menu Item",
+  "parent": "yext/root"
+}
